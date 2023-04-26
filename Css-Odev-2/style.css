@@ -1,0 +1,48 @@
+body {
+    font-size: 13px;
+    text-align: center;
+}
+
+.form {
+
+    margin:  0px auto 3px ;  
+    width: 542px;
+    height: 60px;
+    background-color: rgb(238,238,238);
+    
+}
+
+.all-text {
+
+    display: flex;
+    margin: 0 auto ;
+    width: 542px;
+    height: 74px;
+    
+}
+
+.left-text {
+
+    width: 37%;
+    background-color: rgb(126,229,218);
+    padding: 10px;
+}
+
+.center-text {
+
+    width: 19%;
+    background-color: rgb(112,204,194);
+    margin-left: 2px;
+    
+}
+
+.right-text {
+
+    width: 40%;
+    background-color: rgb(98,179,170);
+    margin-left: 2px;
+
+}
+
+
+
