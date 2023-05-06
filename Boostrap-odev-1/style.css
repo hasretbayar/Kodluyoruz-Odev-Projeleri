@@ -1,0 +1,38 @@
+body {
+
+    background-color: #E9ECEF ;
+    
+}
+
+
+h5 {
+
+    height: 50px;
+    
+}
+
+.card {
+
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+
+    height: 300px;
+
+}
+
+.card-body {
+
+    height: 120px;
+
+}
+
+.price-text  {
+    
+    text-align: center;
+    text-decoration-line: underline;
+    color: blueviolet;
+
+}
+
